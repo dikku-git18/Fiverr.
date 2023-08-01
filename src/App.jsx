@@ -9,6 +9,8 @@ import Orders from "./pages/orders/Orders";
 import MyGigs from "./pages/myGigs/MyGigs";
 import Message from "./pages/message/Message";
 import Messages from "./pages/messages/Messages";
+import "./app.scss";
+import Featured from "./components/featured/Featured";
 import {
   createBrowserRouter,
   RouterProvider,
